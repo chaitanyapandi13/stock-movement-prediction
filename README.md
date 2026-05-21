@@ -171,9 +171,3 @@ When making changes:
 ## 📝 License
 
 See repository for license information.
-
-## 🙏 Credits
-
-- Original implementation: [Pranavvv08](https://github.com/Pranavvv08)
-- Fixes and improvements: February 2026 update
-- Technologies: TensorFlow, Keras, Sentence Transformers, Streamlit, Plotly
