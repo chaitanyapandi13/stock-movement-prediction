@@ -1,0 +1,30 @@
+# Core ML Libraries - Updated for security
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.3.0
+tensorflow>=2.13.0
+scikit-learn>=1.1.0
+seaborn>=0.11.0
+
+# Deep Learning
+torch>=2.6.0
+torchvision>=0.17.0
+
+# NLP and Transformers
+transformers>=4.48.0
+huggingface-hub>=0.20.0
+sentence-transformers>=2.3.0
+sentencepiece>=0.2.1
+nltk>=3.9
+
+# Dashboard
+streamlit>=1.28.0
+plotly>=5.14.0
+
+# Note: The pre-trained models in the model/ directory were trained with older versions
+# of TensorFlow (1.14.0) and Keras (2.2.4). To use these models with the updated libraries:
+# 1. You may need to retrain the models with the new versions, OR
+# 2. Load models using tf.compat.v1 compatibility mode
+# 
+# For security reasons, we've updated all dependencies to patched versions.
+# If you experience model loading issues, please retrain the models using StockMovement.ipynb
