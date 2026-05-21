@@ -166,11 +166,7 @@ View in dashboard for detailed comparison.
 When making changes:
 1. Run validation: `python validate_pipeline.py`
 2. Run tests: `python -m pytest tests/ -v`
-3. Update documentation as needed
-
-## 📝 License
-
-See repository for license information.
+3. Update documentation as needed.
 
 ## Credits
 
