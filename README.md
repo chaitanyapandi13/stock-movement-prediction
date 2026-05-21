@@ -171,3 +171,9 @@ When making changes:
 ## 📝 License
 
 See repository for license information.
+
+## Credits
+
+This project was developed as a collaborative team project.
+
+Repository maintained by Chaitanya Pandi.
